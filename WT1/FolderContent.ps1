@@ -1,5 +1,5 @@
 <#
-Script  : FolderContentLastAccessed.ps1
+Script  : FolderContent.ps1
 By      : Hesham Elhadad
 ID      : L00177542
 Date    : 23-Nov-22
