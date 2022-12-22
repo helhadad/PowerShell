@@ -12,6 +12,16 @@ The repo has three branches as follows:
 - Dev branch  (for developing )
 - Test branch (for testing individual piece of code)
 
+
+# Repo Structure #
+
+## WT1 (WalkThrough_1)
+## WT2 (WalkThrough_2)
+## WT3 (WalkThrough_3)
+## WT4 (WalkThrough_4)
+
+
+
 Author : Hesham Elhadad
 
 ID     : L00177542
